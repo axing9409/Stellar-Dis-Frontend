@@ -1,4 +1,20 @@
-# Stellar Disbursement Platform Frontend
+# Stellar Disbursement Frontend
+
+## Project Research Notes
+
+### Overview
+A React-based frontend application for managing Stellar blockchain payment disbursements.
+
+### Tech Stack
+- React + TypeScript
+- Redux + Redux Toolkit
+- @stellar/design-system
+- Webpack + Babel
+- React Query
+
+---
+
+## Original README
 
 A modern React-based frontend application for managing Stellar network disbursements and payments.
 
