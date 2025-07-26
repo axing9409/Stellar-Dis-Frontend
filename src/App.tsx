@@ -1,3 +1,9 @@
+// Dev notes: App entry point analysis
+// - React Router for navigation
+// - Redux Provider and QueryClient integration
+// - Global error boundary
+// - Internationalization support
+
 import { useEffect } from "react";
 import { BrowserRouter, Routes as RouterRoutes, Route } from "react-router-dom";
 import { Provider } from "react-redux";
