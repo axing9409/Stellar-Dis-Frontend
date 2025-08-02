@@ -1,3 +1,8 @@
+// Dev notes: Optimize disbursements table
+// - Add loading state improvements
+// - Enhance error handling
+// - Improve table performance
+
 import { useNavigate } from "react-router-dom";
 import { Card, Link, Notification } from "@stellar/design-system";
 import { Routes } from "constants/settings";
