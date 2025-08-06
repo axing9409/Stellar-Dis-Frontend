@@ -1,3 +1,8 @@
+// Dev notes: Enhance API functions
+// - Add request retry mechanism
+// - Improve error handling
+// - Optimize response parsing
+
 import { handleApiResponse } from "api/handleApiResponse";
 import { handleSearchParams } from "api/handleSearchParams";
 import { API_URL } from "constants/envVariables";
