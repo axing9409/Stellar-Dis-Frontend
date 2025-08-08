@@ -1,3 +1,8 @@
+// Dev notes: Finalize new disbursement functionality
+// - Optimize button interaction
+// - Add permission checks
+// - Improve error handling
+
 import { Button, Icon } from "@stellar/design-system";
 import { useNavigate } from "react-router-dom";
 import { ShowForRoles } from "components/ShowForRoles";
